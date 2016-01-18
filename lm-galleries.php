@@ -3,7 +3,7 @@
 /**
  * Custom metaboxes post-type Gallery
  * Creates the custom metaboxes for the post-type gallery
- * @author @Sebxx at The LM Team
+ * @author @ju4nr3v0l at The LM Team
  * @package Medellín Vive La Música
  * @version 1.0
  * */
